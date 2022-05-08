@@ -1,7 +1,7 @@
 # VaxMan
 2D game which uses pygame library in Python 
 
-![Screenshot (16)](https://user-images.githubusercontent.com/70450861/159577928-95a37cb3-a298-4f9b-b190-4a9462366500.png)
+![VaxMan](https://user-images.githubusercontent.com/70450861/167308637-4f6933cb-2fce-48ad-9524-38c0f36e4d8b.png)
 
 
 ## Implementation
