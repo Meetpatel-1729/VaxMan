@@ -16,7 +16,7 @@ The Pacman game was provided as a part of the program which you can find it here
 
 ## Steps Involved
 <li> Understood the code and how it works
-<li> Created a list for each types of enemies (Blinky, Pinky, Inky and Clyde) which keeps track of all of its oject and movement
+<li> Created a list for each types of enemies (Blinky, Pinky, Inky and Clyde) which keeps track of all of its object and movement
 <li> Created a main list which has all the list of enemies
 <li> Learned how to change some of the functions which can work with list
 <li> Added the code which keeps track of time and multiplies the ghost every 30 seconds
